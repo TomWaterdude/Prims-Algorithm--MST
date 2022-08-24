@@ -14,4 +14,3 @@ This program uses Prim's algorithm to take in a weighted graph input by the user
 with the weight of the edge between them.
 
 
-[Minimum_spanning_tree.pdf](https://github.com/TomWaterdude/Prims-Algorithm--MST/files/9415901/Minimum_spanning_tree.pdf)
